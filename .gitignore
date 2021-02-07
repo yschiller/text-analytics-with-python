@@ -87,3 +87,14 @@ ENV/
 
 # Rope project settings
 .ropeproject
+New-Second-Edition/bin/activate
+New-Second-Edition/bin/activate.csh
+New-Second-Edition/bin/activate.fish
+New-Second-Edition/bin/Activate.ps1
+New-Second-Edition/bin/pip
+New-Second-Edition/bin/pip3
+New-Second-Edition/bin/pip3.9
+New-Second-Edition/bin/python
+New-Second-Edition/bin/python3
+New-Second-Edition/bin/python3.9
+New-Second-Edition/pyvenv.cfg
